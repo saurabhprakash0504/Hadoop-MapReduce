@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/commons-configuration-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/commons-logging-1.2-bin.zip"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/jackson-all-1.9.0.jar.zip"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/jackson-mapper-asl-1.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/org.apache.commons.httpclient.jar.zip"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/hadoop-mapreduce-client-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/saurabh/Downloads/hadoop-core-1.2.1.jar" sourcepath="/home/saurabh/Downloads/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
